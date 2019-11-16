@@ -1,1 +1,0 @@
-# socohist.github.io
