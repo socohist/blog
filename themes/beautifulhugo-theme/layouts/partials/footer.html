@@ -38,7 +38,7 @@
             {{ end }}
           {{ end }}
 
-          <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License"           style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+          <a rel="license" target="_blank" rel="noopener noreferrer" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License"           style="border-width:0 "target="_blank" rel="noopener noreferrer" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /><a rel="license" target="_blank" rel="noopener noreferrer" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
           {{ if .Site.Params.since }}
             {{ .Site.Params.since }} - {{ .Site.LastChange.Format "2006" }}
           {{ else }}
@@ -136,19 +136,19 @@
 $(function(){
   $('#show-comments').on('click', function(){
     var disqus_shortname = '{{ .Site.DisqusShortname }}';
-      
+
     (function() {
-      var disqus = document.createElement('script'); 
-      disqus.type = 'text/javascript'; 
+      var disqus = document.createElement('script');
+      disqus.type = 'text/javascript';
       disqus.async = true;
       disqus.src = '//' + disqus_shortname + '.disqus.com/embed.js';
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(disqus);
     })();
-      
-    $(this).hide(); 
+
+    $(this).hide();
     });
   });
-      
+
 </script>
 <script id="dsq-count-scr" src="//{{ .Site.DisqusShortname }}.disqus.com/count.js" async></script>
 <!-- End Delayed Disqus -->

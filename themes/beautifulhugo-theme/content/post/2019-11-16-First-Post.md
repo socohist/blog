@@ -1,6 +1,6 @@
 ---
 title:  Welcome to SoCoHist!
-date: 2019-07-28
+date: 2019-11-16
 author: Tim Blevins
 comments: false
 ---

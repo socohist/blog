@@ -1,11 +1,11 @@
 ---
 title: Scanning ISBN Barcodes to Add Books to Your Zotero Library
-date: 2019-10-18
+date: 2019-11-16
 author: Tim Blevins
 tags: ["bibliography", "research", "Zotero"]
 ---
 
-There is a fast and easy way to add book sources to your Zotero Library when you are doing research at the library. Just scan the ISBN barcode with your Android device and it will add all of the essential bibliographic data for the book to your online Zotero account! 
+There is a fast and easy way to add book sources to your Zotero Library when you are doing research at the library. Just scan the ISBN barcode with your Android device and it will add all of the essential bibliographic data for the book to your online Zotero account!
 
 ## You will need:
 * Android device <i class="fab fa-android"></i> with a camera (but I'm an [iOS user!](https://www.zotero.org/blog/scan-books-into-zotero-from-your-iphone-or-ipad/))
@@ -15,7 +15,7 @@ There is a fast and easy way to add book sources to your Zotero Library when you
 ## Set up the barcode scanner:
 1. Install the Barcode Scanner app
 2. Open the app
-3. Tap the more dots <i class="fas fa-ellipsis-v"></i> in the upper right corner 
+3. Tap the more dots <i class="fas fa-ellipsis-v"></i> in the upper right corner
 4. Tap Settings
 5. Scroll to Custom search URL and tap it
 {{< gallery caption-effect="fade" >}}

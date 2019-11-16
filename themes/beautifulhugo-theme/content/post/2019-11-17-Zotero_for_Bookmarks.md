@@ -1,6 +1,6 @@
 ---
 title:  Stop Using Internet Browser Bookmarks—Use Zotero Instead!
-date: 2019-11-01
+date: 2019-11-17
 author: Tim Blevins
 tags: ["bookmarks", "research", "Zotero"]
 ---

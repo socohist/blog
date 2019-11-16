@@ -4,13 +4,6 @@ subtitle: Tim's tips & tricks to make research & writing fun & easy
 disgus: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+SoCoHist contains posts about how to use technology to make research and writing fun and easy. Topics include collaborative writing applications, LaTeX, Markdown, and Zotero. Additionally, posts can be found about a smattering of other subjects like the history of New Mexico and Southern Colorado, independent publishing, libraries, and recommended software, products, and services.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Tim Blevins is an archivist, librarian, and avocational historian living in Southern Colorado and New Mexico.
