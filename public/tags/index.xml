@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SoCoHist</title>
-    <link>https://socohist.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on SoCoHist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://socohist.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>bibliography</title>
-      <link>https://socohist.github.io/tags/bibliography/</link>
+      <link>/tags/bibliography/</link>
       <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://socohist.github.io/tags/bibliography/</guid>
+      <guid>/tags/bibliography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>research</title>
-      <link>https://socohist.github.io/tags/research/</link>
+      <link>/tags/research/</link>
       <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://socohist.github.io/tags/research/</guid>
+      <guid>/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zotero</title>
-      <link>https://socohist.github.io/tags/zotero/</link>
+      <link>/tags/zotero/</link>
       <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://socohist.github.io/tags/zotero/</guid>
+      <guid>/tags/zotero/</guid>
       <description></description>
     </item>
     
