@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://socohist.netlify.com/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "SoCoHist"
