@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zotero on SoCoHist</title>
-    <link>/tags/zotero/</link>
+    <link>https://socohist.github.io/tags/zotero/</link>
     <description>Recent content in Zotero on SoCoHist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/zotero/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://socohist.github.io/tags/zotero/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Scanning ISBN Barcodes to Add Books to Your Zotero Library</title>
-      <link>/post/2019-11-16-scanning-barcodes-zotero/</link>
+      <link>https://socohist.github.io/post/2019-11-16-scanning-barcodes-zotero/</link>
       <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019-11-16-scanning-barcodes-zotero/</guid>
+      <guid>https://socohist.github.io/post/2019-11-16-scanning-barcodes-zotero/</guid>
       <description>There is a fast and easy way to add book sources to your Zotero Library when you are doing research at the library. Just scan the ISBN barcode with your Android device and it will add all of the essential bibliographic data for the book to your online Zotero account!
 You will need:  Android device  with a camera (but I&amp;rsquo;m an iOS user!) Zotero account (a free account includes 300MB of storage) Barcode Scanner app free from Google Play  Set up the barcode scanner:  Install the Barcode Scanner app Open the app Tap the more dots  in the upper right corner Tap Settings Scroll to Custom search URL and tap it    Custom search URL</description>
     </item>

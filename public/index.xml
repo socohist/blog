@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SoCoHist</title>
-    <link>/</link>
+    <link>https://socohist.github.io/</link>
     <description>Recent content on SoCoHist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://socohist.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Scanning ISBN Barcodes to Add Books to Your Zotero Library</title>
-      <link>/post/2019-11-16-scanning-barcodes-zotero/</link>
+      <link>https://socohist.github.io/post/2019-11-16-scanning-barcodes-zotero/</link>
       <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019-11-16-scanning-barcodes-zotero/</guid>
+      <guid>https://socohist.github.io/post/2019-11-16-scanning-barcodes-zotero/</guid>
       <description>There is a fast and easy way to add book sources to your Zotero Library when you are doing research at the library. Just scan the ISBN barcode with your Android device and it will add all of the essential bibliographic data for the book to your online Zotero account!
 You will need:  Android device  with a camera (but I&amp;rsquo;m an iOS user!) Zotero account (a free account includes 300MB of storage) Barcode Scanner app free from Google Play  Set up the barcode scanner:  Install the Barcode Scanner app Open the app Tap the more dots  in the upper right corner Tap Settings Scroll to Custom search URL and tap it    Custom search URL</description>
     </item>
     
     <item>
       <title>Welcome to SoCoHist!</title>
-      <link>/post/2019-11-16-first-post/</link>
+      <link>https://socohist.github.io/post/2019-11-16-first-post/</link>
       <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019-11-16-first-post/</guid>
+      <guid>https://socohist.github.io/post/2019-11-16-first-post/</guid>
       <description>SoCoHist contains posts about using technology to make research and writing easier. Topics include collaborative writing applications, LaTeX, Markdown, and Zotero.</description>
     </item>
     
     <item>
       <title>About SoCoHist</title>
-      <link>/page/about/</link>
+      <link>https://socohist.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/page/about/</guid>
+      <guid>https://socohist.github.io/page/about/</guid>
       <description>SoCoHist contains posts about how to use technology to make research and writing fun and easy. Topics include collaborative writing applications, LaTeX, Markdown, and Zotero. Additionally, posts can be found about a smattering of other subjects like the history of New Mexico and Southern Colorado, independent publishing, libraries, and recommended software, products, and services.
 Tim Blevins is an archivist, librarian, and avocational historian living in Southern Colorado and New Mexico.</description>
     </item>
     
     <item>
       <title>Contact SoCoHist</title>
-      <link>/page/contact/</link>
+      <link>https://socohist.github.io/page/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/page/contact/</guid>
+      <guid>https://socohist.github.io/page/contact/</guid>
       <description>Name:
 Email Address:
 Message:
