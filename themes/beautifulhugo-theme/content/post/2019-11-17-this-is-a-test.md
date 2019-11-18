@@ -1,10 +1,10 @@
 ---
-layout: blog
 title: This is a test
 author: Tim Blevins
 date: 2019-11-18T06:00:40.847Z
+disqus: true
 tags: '["test"]'
 ---
-\##This is a test
+##This is a test
 
 Test, test, test.
