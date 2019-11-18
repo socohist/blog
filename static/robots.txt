@@ -1,9 +1,9 @@
 User-agent: *
 
 Disallow: /admin
+Disallow: /css
+Disallow: /fontawesome
+Disallow: /fonts
+Disallow: /js
 
 Sitemap: https://socohist.netlify.com/sitemap.xml
-
-{{ range where .Data.Pages "Params.robotsdisallow" true }}
-Disallow: {{ .RelPermalink }}
-{{ end }}
