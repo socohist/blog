@@ -3,60 +3,90 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+    <loc>https://socohist.netlify.com/</loc>
+    <lastmod>2019-11-18T06:26:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/bibliography/</loc>
+    <loc>https://socohist.netlify.com/tags/post/</loc>
+    <lastmod>2019-11-18T06:26:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socohist.netlify.com/post/</loc>
+    <lastmod>2019-11-18T06:26:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socohist.netlify.com/tags/</loc>
+    <lastmod>2019-11-18T06:26:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socohist.netlify.com/tags/test/</loc>
+    <lastmod>2019-11-18T06:26:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socohist.netlify.com/post/2019-11-17-test-post/</loc>
+    <lastmod>2019-11-18T06:26:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socohist.netlify.com/tags/bookmarks/</loc>
+    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socohist.netlify.com/tags/research/</loc>
+    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socohist.netlify.com/tags/rss/</loc>
+    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socohist.netlify.com/post/2019-11-17-zotero_for_bookmarks/</loc>
+    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socohist.netlify.com/tags/zotero/</loc>
+    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socohist.netlify.com/tags/bibliography/</loc>
     <lastmod>2019-11-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://socohist.netlify.com/post/2019-11-16-scanning-barcodes-zotero/</loc>
     <lastmod>2019-11-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/research/</loc>
+    <loc>https://socohist.netlify.com/post/2019-11-16-first-post/</loc>
     <lastmod>2019-11-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2019-11-16-scanning-barcodes-zotero/</loc>
-    <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+    <loc>https://socohist.netlify.com/page/about/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+    <loc>https://socohist.netlify.com/categories/</loc>
   </url>
   
   <url>
-    <loc>/post/2019-11-16-first-post/</loc>
-    <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+    <loc>https://socohist.netlify.com/page/contact/</loc>
   </url>
   
   <url>
-    <loc>/tags/zotero/</loc>
-    <lastmod>2019-11-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page/about/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/page/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/page/</loc>
+    <loc>https://socohist.netlify.com/page/</loc>
   </url>
   
 </urlset>

@@ -2,39 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SoCoHist</title>
-    <link>/tags/</link>
+    <link>https://socohist.netlify.com/tags/</link>
     <description>Recent content in Tags on SoCoHist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 06:26:47 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://socohist.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>bibliography</title>
-      <link>/tags/bibliography/</link>
-      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
+      <title>post</title>
+      <link>https://socohist.netlify.com/tags/post/</link>
+      <pubDate>Mon, 18 Nov 2019 06:26:47 +0000</pubDate>
       
-      <guid>/tags/bibliography/</guid>
+      <guid>https://socohist.netlify.com/tags/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://socohist.netlify.com/tags/test/</link>
+      <pubDate>Mon, 18 Nov 2019 06:26:47 +0000</pubDate>
+      
+      <guid>https://socohist.netlify.com/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookmarks</title>
+      <link>https://socohist.netlify.com/tags/bookmarks/</link>
+      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://socohist.netlify.com/tags/bookmarks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>research</title>
-      <link>/tags/research/</link>
-      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
+      <link>https://socohist.netlify.com/tags/research/</link>
+      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/research/</guid>
+      <guid>https://socohist.netlify.com/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSS</title>
+      <link>https://socohist.netlify.com/tags/rss/</link>
+      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://socohist.netlify.com/tags/rss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zotero</title>
-      <link>/tags/zotero/</link>
+      <link>https://socohist.netlify.com/tags/zotero/</link>
+      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://socohist.netlify.com/tags/zotero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bibliography</title>
+      <link>https://socohist.netlify.com/tags/bibliography/</link>
       <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/zotero/</guid>
+      <guid>https://socohist.netlify.com/tags/bibliography/</guid>
       <description></description>
     </item>
     
