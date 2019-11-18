@@ -21,7 +21,7 @@
   {{- if .Site.Params.staticman -}}
     &nbsp;|&nbsp;<i class="fas fa-comment"></i>&nbsp;
     {{ $slug := replace .RelPermalink "/" "" }}
-    {{ if .Site.Data.comments }}
+      {{ if .Site.Data.comments }}
       {{ $comments := index $.Site.Data.comments $slug }}
       {{ if $comments }}
         {{ if gt (len $comments) 1  }}
@@ -42,6 +42,6 @@
     &nbsp;&bull;&nbsp;{{ i18n "translationsLabel" }}{{ $linksOutput }}
   {{ end }}
 {{ if and (not (eq .Site.DisqusShortname "")) (not .Params.disable_comments) }}
+{{ partial "disqus.html" . }}
 {{- end }}
 </span>
-
