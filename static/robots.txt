@@ -1,9 +1,9 @@
 User-agent: *
 
 Disallow: /admin
-Disallow: /css
-Disallow: /fontawesome
-Disallow: /fonts
-Disallow: /js
+Disallow: /css/
+Disallow: /fontawesome/
+Disallow: /fonts/
+Disallow: /js/
 
 Sitemap: https://socohist.netlify.com/sitemap.xml
