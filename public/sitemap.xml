@@ -4,37 +4,17 @@
   
   <url>
     <loc>https://socohist.netlify.com/</loc>
-    <lastmod>2019-11-18T06:26:47+00:00</lastmod>
+    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://socohist.netlify.com/tags/post/</loc>
-    <lastmod>2019-11-18T06:26:47+00:00</lastmod>
+    <loc>https://socohist.netlify.com/tags/bookmarks/</loc>
+    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://socohist.netlify.com/post/</loc>
-    <lastmod>2019-11-18T06:26:47+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://socohist.netlify.com/tags/</loc>
-    <lastmod>2019-11-18T06:26:47+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://socohist.netlify.com/tags/test/</loc>
-    <lastmod>2019-11-18T06:26:47+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://socohist.netlify.com/post/2019-11-17-test-post/</loc>
-    <lastmod>2019-11-18T06:26:47+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://socohist.netlify.com/tags/bookmarks/</loc>
     <lastmod>2019-11-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -50,6 +30,11 @@
   
   <url>
     <loc>https://socohist.netlify.com/post/2019-11-17-zotero_for_bookmarks/</loc>
+    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://socohist.netlify.com/tags/</loc>
     <lastmod>2019-11-17T00:00:00+00:00</lastmod>
   </url>
   
