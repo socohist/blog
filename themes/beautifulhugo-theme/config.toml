@@ -45,11 +45,11 @@ disqusShortname = "socohist"
 #  desc = "Hexagon"
 
 [Author]
-  name = "Some Person"
-  website = "yourwebsite.io"
+  name = "Tim Blevins"
+  website = "socohist.netlify.com"
   email = "youremail@domain.com"
   facebook = "username"
-  github = "username"
+  github = "socohist"
   gitlab = "username"
   bitbucket = "username"
   twitter = "username"
@@ -82,12 +82,12 @@ disqusShortname = "socohist"
 [[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     name = "Contact"
     url = "page/contact/"
-    weight = 5
+    weight = 4
 
 [[menu.main]]
     name = "Tags"

@@ -12,7 +12,7 @@ icon = "fab fa-facebook"
 
 [[social_icons]]
 id = "github"
-url = "https://github.com/%s"
+url = "https://github.com/socohist"
 title = "GitHub"
 icon = "fab fa-github"
 

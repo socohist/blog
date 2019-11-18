@@ -5,3 +5,4 @@ theme = "beautifulhugo-theme"
 disqusShortname = "socohist"
 [blackfriday]
   hrefTargetBlank = true
+enableRobotsTXT = true
