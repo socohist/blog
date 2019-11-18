@@ -1,0 +1,9 @@
+User-agent: *
+
+Disallow: /admin
+
+Sitemap: https://socohist.netlify.com/sitemap.xml
+
+{{ range where .Data.Pages "Params.robotsdisallow" true }}
+Disallow: {{ .RelPermalink }}
+{{ end }}
