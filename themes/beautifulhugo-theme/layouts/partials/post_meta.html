@@ -42,6 +42,5 @@
     &nbsp;&bull;&nbsp;{{ i18n "translationsLabel" }}{{ $linksOutput }}
   {{ end }}
 {{ if and (not (eq .Site.DisqusShortname "")) (not .Params.disable_comments) }}
-{{ partial "disqus.html" . }}
 {{- end }}
 </span>
