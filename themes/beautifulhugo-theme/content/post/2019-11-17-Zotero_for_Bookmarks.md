@@ -3,7 +3,6 @@ title:  Stop Using Internet Browser Bookmarks—Use Zotero Instead!
 date: 2019-11-17
 author: Tim Blevins
 tags: ["bookmarks", "research", "Zotero", "RSS"]
-disqusShortname: socohist
 ---
 Every Internet browser has the useful capability of bookmarking favorite websites that you may wish to revisit. Some browsers allow for folders to organize your bookmarks, but there's a better option for keeping track of your website discoveries.
 

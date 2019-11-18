@@ -2,5 +2,6 @@ baseURL = "https://socohist.netlify.com/"
 languageCode = "en-us"
 title = "SoCoHist"
 theme = "beautifulhugo-theme"
+disqusShortname = "socohist"
 [blackfriday]
   hrefTargetBlank = true
