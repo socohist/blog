@@ -1,5 +1,5 @@
 ---
-title: Contact Us
+title: Contact
 disgus: false
 ---
 
@@ -10,6 +10,6 @@ disgus: false
   Email Address:<br>  
   <input type="email" name="email"><br>
    Message:<br>
-  <textarea rows="4" cols="50" name="message"></textarea><br>
+  <textarea rows="4" cols="40" name="message"></textarea><br>
   <button type="submit">Send</button>
 </form>
