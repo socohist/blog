@@ -3,10 +3,7 @@ title: UPDATED: Share Big Files Fast & Safely with Firefox Send
 author: Tim Blevins
 date: 2019-11-28T19:38:50.251Z
 disqus: true
-tags:
-  - file sharing
-  - Firefox
-  - security
+tags: ["file sharing", "Firefox", "security"]
 ---
 **UPDATE: Mozilla [suspended Firefox Send](https://support.mozilla.org/en-US/kb/what-happened-firefox-send) during September 2020.**
 
