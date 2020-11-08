@@ -1,5 +1,5 @@
 ---
-title: Share Big Files Fast & Safely with Firefox Send
+title: UPDATED: Share Big Files Fast & Safely with Firefox Send
 author: Tim Blevins
 date: 2019-11-28T19:38:50.251Z
 disqus: true
@@ -8,6 +8,8 @@ tags:
   - Firefox
   - security
 ---
+**UPDATE: Mozilla [suspended Firefox Send](https://support.mozilla.org/en-US/kb/what-happened-firefox-send) during September 2020.**
+
 [Firefox Send](https://send.firefox.com/) is a free service that permits users to securely share files up to 2.5GB from any web browser (not just Firefox). There is also an Android app (in beta) available on [Google Play](https://play.google.com/store/apps/details?id=org.mozilla.firefoxsend&hl=en_US).
 
 ## What you need to know
