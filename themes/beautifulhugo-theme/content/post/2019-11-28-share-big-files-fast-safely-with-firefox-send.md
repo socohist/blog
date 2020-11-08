@@ -1,5 +1,5 @@
 ---
-title: UPDATED: Share Big Files Fast & Safely with Firefox Send
+title: UPDATED Share Big Files Fast & Safely with Firefox Send
 author: Tim Blevins
 date: 2019-11-28T19:38:50.251Z
 disqus: true
